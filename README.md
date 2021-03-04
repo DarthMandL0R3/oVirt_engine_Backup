@@ -9,7 +9,7 @@ This script objective is to schedule the backup to take place on specific time a
 The timings are as shown below:
 * Monday, 12 AM (GMT +8)
 * Thursday, 12 AM (GMT +8)
-* Friday, 12 AM (GMT +8)
+* Sunday, 12 AM (GMT +8)
 
 ## Warning
 

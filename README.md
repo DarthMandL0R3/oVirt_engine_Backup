@@ -17,11 +17,14 @@ Script needs to be run with root privileges.
 
 ## Usage
 
-This is part will be detailed later.
+1. Clone the repository using ```git clone http://infra-gitea.bestinet.com.my/Bestinet-OPS-Team/RHEVM_Engine_Backup.git```.
+2. Change the permission of the file ```rhev_bkup.sh``` to execute.
+3. Add cron job for the user ```root``` to execute the script.
+4. Monitor the execution and result at the designated folders.
 
 ## Future Tasks
 
-1. Intergrate with mailing system.
+1. Housekeeping the mountpoint for every environment backups.
 2. Intergrate with mass sharing systems such as Syncthing.
 
 ## Notice

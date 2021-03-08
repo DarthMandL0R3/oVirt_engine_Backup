@@ -1,1 +1,8 @@
-0 0 * * 1,4,7 bash /root/RHEV_Engine_Backup/rhev_bkup.sh
+################################
+#     ovirt crontab example    #
+#          ver. 1.0            #
+#       Created by: AKK        #
+################################
+
+#Schedule ovirt backup on Mon, Thu and Sun
+0 0 * * 1,4,7 /bin/bash /root/RHEVM_Engine_Backup/rhev_bkup.sh

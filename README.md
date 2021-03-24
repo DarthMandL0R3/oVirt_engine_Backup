@@ -13,7 +13,7 @@ The timings are as shown below:
 
 ## Warning
 
-Script needs to be run with root privileges.
+Script needs to be run with super user (root) privileges.
 
 ## Usage
 

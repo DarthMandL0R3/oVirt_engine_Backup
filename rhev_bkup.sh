@@ -1,5 +1,10 @@
 #!/bin/bash
 
+###Warning: Please run this script as root user###
+
+#Author: Abrar and Geng.
+#Version: 1.1.
+
 DFOLDER=DB/DBi/Lower_DMZ/Lower_Env/New_Prod/Prod_DMZ/Prod_Env #Remove other that is not needed and '/' symbols
 
 #Remove backup files older than 5 days 

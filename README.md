@@ -24,8 +24,8 @@ Script needs to be run with super user (root) privileges.
 
 ## Future Tasks
 
-1. Housekeeping the mountpoint for every environment backups.
-2. Intergrate with mass sharing systems such as Syncthing.
+1. Housekeeping the mountpoint for every environment backups. -> COMPLETED
+2. Intergrate with mass sharing systems such as Syncthing. -> COMPLETED
 
 ## Notice
 
